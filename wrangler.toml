@@ -1,0 +1,12 @@
+name = "photocopie-admin-dashboard"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "photocopie-admin-db"
+database_id = "f591a45c-00cd-4ffd-a23c-9537ded6df53"
+
+[[r2_buckets]]
+binding = "TELECHARGEMENTS"
+bucket_name = "photocopie-telechargements"
